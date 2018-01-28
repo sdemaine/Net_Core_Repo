@@ -1,0 +1,8 @@
+d:\__myprojects\Net_Core_Repo\bin\Debug\netcoreapp1.1\Net_Core_Repo.deps.json
+d:\__myprojects\Net_Core_Repo\bin\Debug\netcoreapp1.1\Net_Core_Repo.runtimeconfig.json
+d:\__myprojects\Net_Core_Repo\bin\Debug\netcoreapp1.1\Net_Core_Repo.runtimeconfig.dev.json
+d:\__myprojects\Net_Core_Repo\bin\Debug\netcoreapp1.1\Net_Core_Repo.dll
+d:\__myprojects\Net_Core_Repo\bin\Debug\netcoreapp1.1\Net_Core_Repo.pdb
+d:\__myprojects\Net_Core_Repo\obj\Debug\netcoreapp1.1\Net_Core_Repo.AssemblyInfo.cs
+d:\__myprojects\Net_Core_Repo\obj\Debug\netcoreapp1.1\Net_Core_Repo.dll
+d:\__myprojects\Net_Core_Repo\obj\Debug\netcoreapp1.1\Net_Core_Repo.pdb
